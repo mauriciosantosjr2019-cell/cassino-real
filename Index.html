@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Cassino Real | Ganhos Comprovados</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<style>
+*{box-sizing:border-box}
+body{margin:0;font-family:'Poppins',sans-serif;background:radial-gradient(circle at top,#1a0033,#05000f);color:#fff;}
+nav{position:fixed;top:0;width:100%;padding:16px 30px;background:rgba(5,0,15,.95);z-index:999;}
+nav strong{color:#facc15;}
+header{padding:160px 20px 120px;text-align:center;}
+header h1{font-size:44px;background:linear-gradient(90deg,#facc15,#22c55e);-webkit-background-clip:text;-webkit-text-fill-color:transparent;}
+header p{max-width:720px;margin:20px auto;font-size:20px;opacity:.9;}
+.hero-btn{display:inline-block;margin-top:35px;padding:18px 38px;background:linear-gradient(90deg,#22c55e,#16a34a);color:#000;font-weight:700;border-radius:50px;text-decoration:none;}
+
+section{padding:90px 20px;}
+.container{max-width:1200px;margin:auto;}
+.title{text-align:center;margin-bottom:60px;}
+.title h2{font-size:36px;color:#facc15;}
+
+.top3{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:35px;margin-bottom:80px;}
+.top-card{
+  background:linear-gradient(180deg,rgba(250,204,21,.15),rgba(255,255,255,.05));
+  border:2px solid #facc15;
+  border-radius:26px;
+  padding:40px;
+  text-align:center;
+  box-shadow:0 0 40px rgba(250,204,21,.35);
+}
+.top-rank{font-size:42px;font-weight:700;color:#facc15;}
+.top-card h3{color:#22c55e;font-size:26px;margin:15px 0;}
+.top-card p{opacity:.9;}
+.top-card a{
+  display:inline-block;
+  margin-top:25px;
+  padding:18px 36px;
+  background:linear-gradient(90deg,#22c55e,#16a34a);
+  color:#000;
+  border-radius:50px;
+  font-weight:700;
+  text-decoration:none;
+}
+
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:35px;}
+.card{background:rgba(255,255,255,.06);border-radius:22px;padding:34px;box-shadow:0 0 30px rgba(250,204,21,.2);}
+.card h3{color:#22c55e;}
+.card a{display:inline-block;margin-top:20px;padding:15px 28px;background:#facc15;color:#000;border-radius:40px;font-weight:700;text-decoration:none;}
+
+.badge{text-align:center;margin-top:40px;color:#22c55e;}
+.floating-btn{position:fixed;bottom:20px;right:20px;background:#22c55e;color:#000;padding:16px 28px;font-weight:700;border-radius:50px;text-decoration:none;z-index:999;}
+footer{background:#02000a;padding:35px;text-align:center;font-size:14px;opacity:.85;}
+</style>
+</head>
+
+<body>
+
+<nav><strong>CASSINO REAL</strong></nav>
+
+<header>
+<h1>Cassinos Online Que Realmente Pagam</h1>
+<p>Plataformas testadas, bônus exclusivos e pagamentos rápidos via Pix.</p>
+<a href="https://www.89e66.com/?pid=963539833" class="hero-btn">🎰 JOGAR AGORA</a>
+</header>
+
+<section>
+<div class="container">
+
+<div class="title"><h2>🏆 TOP 3 CASSINOS MAIS INDICADOS</h2></div>
+
+<div class="top3">
+
+<div class="top-card">
+<div class="top-rank">1º</div>
+<h3>🃏 89e66</h3>
+<p>Jackpots altos, bônus exclusivos e Pix rápido.</p>
+<a href="https://www.89e66.com/?pid=963539833">JOGAR AGORA</a>
+</div>
+
+<div class="top-card">
+<div class="top-rank">2º</div>
+<h3>🎰 55II2</h3>
+<p>Plataforma moderna, apostas ao vivo e saque imediato.</p>
+<a href="https://55ii2.com/?pid=3504808384">JOGAR AGORA</a>
+</div>
+
+<div class="top-card">
+<div class="top-rank">3º</div>
+<h3>🎲 333bet55</h3>
+<p>Bônus alto e pagamentos via Pix testados.</p>
+<a href="https://www.333bet55.com/?id=42987674">CRIAR CONTA</a>
+</div>
+
+</div>
+
+<div class="title"><h2>Todos os Cassinos Recomendados</h2></div>
+
+<div class="cards">
+
+<div class="card"><h3>🔥 AA888</h3><a href="https://aa888.uk/?a=o9n4evgy">CRIAR CONTA</a></div>
+<div class="card"><h3>💎 81FF</h3><a href="https://81ff.co/?pid=4514073825">JOGAR AGORA</a></div>
+<div class="card"><h3>🚀 KK999</h3><a href="https://kk999-jogar.com/?a=pk1yxkfv">CRIAR CONTA</a></div>
+<div class="card"><h3>🎲 318BET</h3><a href="https://www.318bet.co/?id=233398419">JOGAR AGORA</a></div>
+<div class="card"><h3>⚡ 676BET</h3><a href="https://676bet5.com/?id=395854104">CRIAR CONTA</a></div>
+<div class="card"><h3>🔥 686BET</h3><a href="https://686bet9.com/?id=855119944">JOGAR AGORA</a></div>
+<div class="card"><h3>💰 518BET</h3><a href="https://518bet.win/?id=218411835">CRIAR CONTA</a></div>
+<div class="card"><h3>🎯 766BET</h3><a href="https://766bet.me/?id=998849955">JOGAR AGORA</a></div>
+<div class="card"><h3>🔥 4499HI</h3><a href="https://4499hi.com/?pid=2803394219">JOGAR AGORA</a></div>
+<div class="card"><h3>💎 2ABET22</h3><a href="https://2abet22.com/?id=973296957">CRIAR CONTA</a></div>
+<div class="card"><h3>🚀 LV7</h3><a href="https://lv7.my/?code=Rss3adRd">JOGAR AGORA</a></div>
+
+</div>
+
+<div class="badge">✔ Pagamentos testados • ✔ Pix rápido • ✔ +18</div>
+
+</div>
+</section>
+
+<footer>
+🔞 Proibido para menores de 18 anos<br>
+🎲 Jogue com responsabilidade<br>
+© 2026 Cassino Real
+</footer>
+
+<a href="https://www.89e66.com/?pid=963539833" class="floating-btn">🎰 JOGAR AGORA</a>
+
+</body>
+</html>
